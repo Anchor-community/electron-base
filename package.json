@@ -1,7 +1,7 @@
 {
-  "name": "desktop-audio-recorder",
+  "name": "anchor-electron-base",
   "version": "0.0.0",
-  "description": "Audio recorder for desktop",
+  "description": "Electron base template for anchor developers.",
   "main": "dist/main.js",
   "scripts": {
     "predev": "rimraf dist",
